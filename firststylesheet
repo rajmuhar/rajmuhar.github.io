@@ -1,0 +1,17 @@
+
+.Raj Muhar {
+        background: #FCC;
+    }
+
+    .Product Management {
+         background: #CFC;
+     }
+
+    .Bedroom {
+        background: #CCF;
+    }
+
+    .band {
+        width:100px;
+        height: 10px;
+    }
